@@ -1,0 +1,23 @@
+{
+    "name": "lifespikes/node-process",
+    "description": "Spawn and manage node instances from PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LifeSpikes\\PHPNode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LifeSpikes",
+            "email": "hello@lifespikes.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.5",
+        "symfony/var-dumper": "6.1.x-dev"
+    }
+}
