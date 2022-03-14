@@ -1,6 +1,8 @@
 # PHP Node
 Simple library for executing short-lived NodeJS processes from PHP.
 
+Hi Packagist :) https://packagist.com/orgs/lifespikes/packages/3021975
+
 ### Who is this for?
 Every language and platform has their pros and cons, for us one of the biggest benefits of
 JavaScript is being able to whip up programs in the span of a few minutes.
