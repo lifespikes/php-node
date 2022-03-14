@@ -1,5 +1,5 @@
 {
-    "name": "lifespikes/node-process",
+    "name": "lifespikes/php-node",
     "description": "Spawn and manage node instances from PHP",
     "type": "library",
     "license": "MIT",
